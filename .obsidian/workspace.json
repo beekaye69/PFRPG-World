@@ -157,19 +157,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "5f7e3f867e8fe410",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,8 +175,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "985108b5ae00b117",
